@@ -1,2 +1,3 @@
-![image](https://user-images.githubusercontent.com/61115794/111837817-5ab0d900-88f0-11eb-8a29-78fd41323ad1.png)
 # Data-structures-and-algorithms
+
+![Readme](https://user-images.githubusercontent.com/61115794/111838302-0fe39100-88f1-11eb-9309-21f2278153d0.png)
